@@ -1,15 +1,14 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 
-const BasicSetPage = () => (
+export default () => (
   <Layout>
-    <SEO title="Set básico" />
+    <SEO title="Set escritorio básico" />
     <h1>Set básico</h1>
     <p>Lo mínimo que se necesita para montar una escritorio en casa</p>
+
+
   </Layout>
 )
-
-export default BasicSetPage

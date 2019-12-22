@@ -1,15 +1,14 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 
-const OfficeSetPage = () => (
+export default () => (
   <Layout>
-    <SEO title="Set de oficina" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
+    <SEO title="Set de oficina básico" />
+    <h1>Office set</h1>
+    <p>Lo mínimo que se necesita para montar una escritorio en casa</p>
+
+
   </Layout>
 )
-
-export default OfficeSetPage
