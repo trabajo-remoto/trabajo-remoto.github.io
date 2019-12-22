@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"ta8+":function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),c=n.n(t),i=n("Bl7J"),r=n("vrFN");a.default=function(){return c.a.createElement(i.a,null,c.a.createElement(r.a,{title:"Set de oficina básico"}),c.a.createElement("h1",null,"Office set"),c.a.createElement("p",null,"Lo mínimo que se necesita para montar una escritorio en casa"))}}}]);
+//# sourceMappingURL=component---src-pages-sets-officeset-js-e04b97e1dd7a0784a5d3.js.map
