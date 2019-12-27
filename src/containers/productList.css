@@ -1,0 +1,11 @@
+.product {
+    padding-left: 2em;
+}
+
+.products {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+
+    display: flex;
+    flex-direction: row;
+}
