@@ -18,7 +18,7 @@ var links = [
 
 const BasicPage = () => (
   <Layout>
-  <SEO title="Set escritorio básico" />
+  <SEO title="Set escritorio básic   dkfo" />
   <h1>Set básico</h1>
   <p>Lo mínimo que se necesita para montar una escritorio en casa</p>
 

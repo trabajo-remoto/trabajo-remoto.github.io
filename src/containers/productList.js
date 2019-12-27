@@ -1,4 +1,5 @@
 import React from "react"
+import { Flex, Box } from 'reflexbox'
 
 import "./productList.css"
 
@@ -9,10 +10,12 @@ class ProductList extends React.Component {
     }
     render() {
         return (
-            <div className="products">
+            <Flex flexWrap='wrap'>
             {
                 this.props.links.map((link, id) =>
-                <div className="product">
+                <Box
+                width={[ 1, 1/4 ]}
+                p={3}>
                     <iframe style={{
                         width: `120px`,
                         height: '240px',
@@ -25,10 +28,10 @@ class ProductList extends React.Component {
                         key={id}
                         >
                     </iframe>
-                </div>
+                </Box>
             )
             }
-        </div>
+        </Flex>
         )
     }
   }
