@@ -1,5 +1,7 @@
 import React from "react"
 
+import ProductList from "../../containers/productList"
+
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 
@@ -20,19 +22,7 @@ const OfficePage = () => (
   <h1>Set para trabajar desde casa</h1>
   <p>Escritorio, mesa, silla y componentes necesarios para trabajar desde casa. Lo más básico y barato que se puede encontrar</p>
 
-  {
-  links.map((link) =>
-    <iframe style={{
-          width: `120px`,
-          height: '240px',
-        }}
-        marginWidth={0}
-        marginHeight={0}
-        scrolling={"no"}
-        frameBorder={0} src={link}
-        >
-      </iframe>)
-  }
+  <ProductList links={links}></ProductList>
 
   </Layout>
 )
