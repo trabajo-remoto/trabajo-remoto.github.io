@@ -1,7 +1,7 @@
 import React from "react"
 import { Flex, Box } from 'reflexbox'
 
-import "./productList.css"
+import "./product-list.css"
 
 class ProductList extends React.Component {
     constructor() {

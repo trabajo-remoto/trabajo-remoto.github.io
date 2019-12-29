@@ -1,6 +1,6 @@
 import React from "react"
 
-import ProductList from "../../containers/productList"
+import ProductList from "../../containers/product-list"
 
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
