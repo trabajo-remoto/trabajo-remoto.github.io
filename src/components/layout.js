@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import 'semantic-ui-css/semantic.min.css'
-
+import { Container } from 'semantic-ui-react'
 import Header from "./header"
 import "../css/global.css"
 
@@ -28,7 +28,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <div
+      <Container
         style={{
           margin: `0 auto`,
           maxWidth: 960,
@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
         <footer>
           © {new Date().getFullYear()}
         </footer>
-      </div>
+      </Container>
     </>
   )
 }

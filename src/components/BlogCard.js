@@ -21,21 +21,14 @@ const BlogCard = props => {
         }
       } = props;
 
-    console.log(fluid)
-
     return (
-        <Box
-            width={[ 1, 1/2 ]}
-            pt={3}
-            key={path}>
-            <Link className="post-card-content-link" to={ path }>
-                <Card
-                    image={ fluid.src }
-                    header={ title }
-                    description={ description }
-                />
-            </Link>
-        </Box>
+        <Link className="post-card-content-link" to={ path }>
+            <Card
+                image={ fluid.src }
+                header={ title }
+                description={ excerpt }
+            />
+        </Link>
     )
 }
 

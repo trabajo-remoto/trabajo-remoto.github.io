@@ -4,6 +4,8 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+import { Grid } from 'semantic-ui-react'
+
 import Blog from "../blog"
 
 class IndexPage extends React.Component {
@@ -13,14 +15,18 @@ class IndexPage extends React.Component {
         posts: { edges: posts = [] },
       }
     } = this.props;
-    console.log("POSTS", posts)
+    console.log("A", posts)
     return(
       <Layout>
-      <SEO title="List de sets" />
-      <h1>Ergonomía en casa</h1>
-      <p>Todo lo que necesitas para estudiar, trabajar o divertirte con consejos de profesionales</p>
-
-        <Blog posts={posts}/>
+      {/* <SEO title="List de sets" /> */}
+        <Grid container divider='vertically'>
+          <Grid.Row columns={2}>
+            <Blog posts={posts.slice(0, 2)} view='Item'/>
+          </Grid.Row>
+          <Grid.Row columns={3}>
+            <Blog posts={posts.slice(2, posts.length)} view='Card'/>
+          </Grid.Row>
+        </Grid>
       </Layout>
     )
   }
@@ -50,7 +56,7 @@ export const query = graphql`
           fields {
             slug
           }
-          excerpt(pruneLength: 40)
+          excerpt(pruneLength: 150)
         }
       }
     }
