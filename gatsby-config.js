@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Trabajo remoto`,
+    title: `trabajo-remoto.com`,
     description: `Consejos para trabajar en remoto`,
     author: `@migueloop, @albertoimpl`,
     pathPrefix: "/trabajo-remoto.github.io",
