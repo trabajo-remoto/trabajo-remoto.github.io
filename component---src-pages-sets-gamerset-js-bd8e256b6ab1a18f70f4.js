@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{tD7n:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),c=n("Bl7J"),o=n("vrFN");t.default=function(){return r.a.createElement(c.a,null,r.a.createElement(o.a,{title:"Set escritorio básico"}),r.a.createElement("h1",null,"Set básico"),r.a.createElement("p",null,"Lo mínimo que se necesita para montar una escritorio en casa"))}}}]);
-//# sourceMappingURL=component---src-pages-sets-gamerset-js-bd8e256b6ab1a18f70f4.js.map
