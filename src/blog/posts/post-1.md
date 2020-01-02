@@ -1,7 +1,7 @@
 ---
-path: "/blog/my-first-post"
+path: "/blog/post-1"
 date: "2017-11-07"
 title: "My first blog post"
-image: "gamer-office.jpg"
+featuredImage: ../../images/basic.jpg
 ---
 Has anyone heard about GatsbyJS yet?
