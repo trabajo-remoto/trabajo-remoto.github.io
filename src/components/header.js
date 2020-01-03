@@ -9,6 +9,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+  <!-- TradeDoubler site verification 3136058 -->
     <div
       style={{
         margin: `0 auto`,
