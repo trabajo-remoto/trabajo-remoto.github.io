@@ -19,7 +19,7 @@ class IndexPage extends React.Component {
     return(
       <Layout>
       <SEO title="trabajo-remoto.com" />
-        <Grid container divider='vertically'>
+        <Grid stackable doubling divider='vertically'>
           <Grid.Row columns={2}>
             <Blog posts={posts.slice(0, 2)} view='Item'/>
           </Grid.Row>

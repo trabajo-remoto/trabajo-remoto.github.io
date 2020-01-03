@@ -15,7 +15,6 @@ const Blog = props => {
         fields: { slug }
       }
     } = post;
-      console.log("view", view)
       return (
         <Grid.Column>
         { view == 'Card' ?

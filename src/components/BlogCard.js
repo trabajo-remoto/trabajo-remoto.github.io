@@ -23,7 +23,7 @@ const BlogCard = props => {
 
     return (
         <Link className="post-card-content-link" to={ path }>
-            <Card
+            <Card fluid
                 image={ fluid.src }
                 header={ title }
                 description={ excerpt }
