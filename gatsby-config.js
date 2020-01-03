@@ -43,6 +43,18 @@ module.exports = {
         icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-html-comments`,
+      options: {
+        files: ['./public/index.html'],
+        comment: [
+          {
+            regexp: /<trade-doubler-comment-tag>(.*?)<\/trade-doubler-comment-tag>/g,
+            comment: `<!-- TradeDoubler site verification 3136058 -->`,
+            },
+        ]
+      }
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
