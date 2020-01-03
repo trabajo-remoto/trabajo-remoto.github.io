@@ -9,6 +9,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+  <trade-doubler-comment-tag></trade-doubler-comment-tag>
     <div
       style={{
         margin: `0 auto`,

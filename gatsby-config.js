@@ -46,7 +46,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-html-comments`,
       options: {
-        files: ['./public/index.html'],
+        files: ['./public/**/*.html', './public/*.html'],
         comment: [
           {
             regexp: /<trade-doubler-comment-tag>(.*?)<\/trade-doubler-comment-tag>/g,

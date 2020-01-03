@@ -15,10 +15,10 @@ class IndexPage extends React.Component {
         posts: { edges: posts = [] },
       }
     } = this.props;
-    console.log("A", posts)
+
     return(
       <Layout>
-      {/* <SEO title="List de sets" /> */}
+      <SEO title="trabajo-remoto.com" />
         <Grid container divider='vertically'>
           <Grid.Row columns={2}>
             <Blog posts={posts.slice(0, 2)} view='Item'/>
