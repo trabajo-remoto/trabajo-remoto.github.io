@@ -29,4 +29,14 @@ Entre una silla gamer y las normales no hay mucho más diferencia que el estilo.
 
 ## 3. PC
 
+Si sillas y mesas hay muchas, ordenadores hay infinidad. Es dificil dar una buena recomendación sin conocer los objetivos del usuario final, pero sí podemos guiar un poco usando alguna generalidad.
+
+Para el ámbito laboral, lo más recomendable es un ordenador portátil. Trabajar desde casa implicará muy probablemebnte también movilidad. Es muy probable que tengas que visita alguna oficina fuera de tu ámbito, llevarte el ordenador de vacaciones por si necesitas atender alguna urgencia o simplemente moverlo entre habitaciones en tu propia casa.
+
+La opción ordenador de sobremesa puede ser buena si se necesitara tener mucha potencia a un menor coste que un portátil, por lo que solo recomendamos su elección si necesitas realizar tareas como edición de video, uso de autocad y otros usos intensivos de procesamiento.
+
+Los All-in-one (ordenadores que traen integrado todo junto al monitor) no los recomendamos en la mayoría de casos ya que traen componentes integrados difíciles de actualizar a medio plazo y suelen dar menores prestaciones que una torre y un monitor. Suelen ser soluciones que se adaptan más a lugares dónde el responsable tiene que montar un gran volumen de puestos de trabajo para muchos usuarios, por ejemplo hospitales, centros médicos, centros de formación, etc.
+
 ## 4. Monitor
+
+El monitor es un elemento que puede condicionar mucho la calidad de nuestro trabajo. Por lo general la recomendación más realizada es un tamaño de 32''. Esta opción es la que mejor calidad/precio tiene y mejores resultados da. Hablamos más en profundidad de los diferentes tipos de tecnología, tiempos de respuesta, etc en nuestra sección de monitores. Además si necesitas ampliar tu set, será muy fácil comprar un monitor del mismo modelo y marca o parecido y ponerlo junto al que ya tienes, de modo que puedes extender tu escritorio y ganar en espacio virtual para trabajar. Algunos monitores pueden girarse 90º para permitir verlos en vertical, esta opción algunos programadores y editores de texto.

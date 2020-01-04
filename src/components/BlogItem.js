@@ -29,11 +29,6 @@ const BlogItem = props => {
                     <Link to={ path }> { title } </Link>
                 </Item.Header>
                 <Item.Content content={ excerpt } verticalAlign='middle' />
-                <Item.Extra>
-                    <Button primary floated='right' size='small'>
-                        <Link to={ path }> Seguir leyendo <Icon name='right chevron' /> </Link>
-                    </Button>
-                </Item.Extra>
             </Item.Content>
         </Item>
     )
