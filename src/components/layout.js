@@ -8,10 +8,11 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import { Container } from 'semantic-ui-react'
 
 import 'semantic-ui-css/semantic.min.css'
-import { Container } from 'semantic-ui-react'
 import Header from "./header"
+
 import "../css/global.css"
 
 const Layout = ({ children }) => {
@@ -20,6 +21,10 @@ const Layout = ({ children }) => {
       site {
         siteMetadata {
           title
+          menuLinks {
+            name
+            link
+          }
         }
       }
     }
@@ -27,7 +32,10 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Header
+        siteTitle={data.site.siteMetadata.title}
+        menuLinks={data.site.siteMetadata.menuLinks}
+      />
       <Container
         style={{
           margin: `0 auto`,

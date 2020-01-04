@@ -1,6 +1,20 @@
 module.exports = {
   siteMetadata: {
     title: `trabajo-remoto.com`,
+    menuLinks: [
+      {
+        name:'Set Básico',
+        link:'/sets/basicset/'
+      },
+      {
+        name:'Set de oficina',
+        link:'/sets/officeset/'
+      },
+      {
+        name:'Set para jugar',
+        link:'/sets/gamerset/'
+      },
+    ],
     description: `Consejos para trabajar en remoto`,
     author: `@migueloop, @albertoimpl`,
     pathPrefix: "/trabajo-remoto.github.io",

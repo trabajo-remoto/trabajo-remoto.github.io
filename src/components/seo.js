@@ -19,6 +19,10 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            menuLinks {
+              name
+              link
+            }
           }
         }
       }
