@@ -22,7 +22,7 @@ const BlogCard = props => {
       } = props;
 
     return (
-        <Link className="post-card-content-link" to={ path }>
+        <Link className="blogCard" to={ path }>
             <Card fluid
                 image={ fluid.src }
                 header={ title }

@@ -8,8 +8,8 @@ featuredImage: ../../images/post-1.jpg
 Cada día las empresas dan más oportunidades a la gente para trabajar desde casa. En un mundo cada vez más globalizado algunas empresas operan 100% de forma distribuida y otras empresas con mayor tamaño y mejor posicionadas en el sector, están comienzan a dar facilidades de sus empleados para trabajar algunos días de la semana desde sus hogares. Te resumimos cuales son los elementos mínimos necesarios para comenzar a trabajar desde casa.
 
 1. [Mesa](/blog/mesas-trabajar-desde-casa)
-2. [Silla](/blog/)
-3. [Ordenador]
+2. [Silla](/blog/analisis-sillas-oficina)
+3. [Ordenador](/blog/mejores-pcs-trabajar-desde-casa)
 4. [Monitor]
 
 ## 1. Mesa. Cuidado con los cajones.
@@ -21,6 +21,7 @@ Puedes encontrar algunas ideas en esta [comparativa de mesas](/blog/mesas-trabaj
 Otra opción bastante recurrente es añadir una cajonera como pata de la mesa, pero hay que tener cuidado, estas suelen ser bastante bajas y a veces hay que añadir una barra extensora para dar altura a la mesas. Te recomendamos echar un vistazo a [set de ideas con cajoneras](/blog/mesas-con-cajonera)
 
 ## 2. Silla. ¿Gamer vs Office?
+
 Las primeras sillas gamer las empezamos a ver tras la nuca de youtubers y streamers, aunque ya existian algunos ejemplares hace un par de décadas. Parecen muy cómodas y duraderas, pero ojo, los precios y las calidades no son para nada lo que parece en muchos.
 
 El hype y las modas son peligrosas y las sillas no son precisamente baratas. Una silla es como un coche, depende mucho del uso que le vayamos a dar, estilo que nos guste y durabilidad que busquemos. Hay que saber que las sillas sufren más de lo que parece, así que en algunos casos nos convendrá invertir algunos euros de más para buscar buenas calidades.

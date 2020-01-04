@@ -43,7 +43,7 @@ Lo mejor de estaq silla sin duda es el precio. Por unos 50 euros podemos tener u
 
 Otra silla para empezar a trabajar desde casa. Es muy fácil de montar (Viene con instrucciones y la llave allen necesaria para el montaje) y es perfecta para su función, con buen agarre lumbar (un defecto del que adolecen muchas sillas de escritorio, que creen solventar con un cojín blandorro) y el respaldo de red es tremendamente cómodo, adaptable y transpirable. Teniendo en cuenta que trae ruedas de plástico y que puede dañar el suelo con el paso del tiempo, esta silla es perfecta para empezar con poca inversión a trabajar desde casa.
 
-## 6 - [Mc Haus Vulcano](https://amzn.to/37EOwJD
+## 6 - [Mc Haus Vulcano](https://amzn.to/37EOwJD)
 
 Aumentamos la calidad y el precio. En el puesto 6 tenemos una silla compacta, cómoda y ergonómica
 
@@ -86,7 +86,7 @@ Un punto negativo puede ser la tela usada, que es tipo malla para que en verano 
 
 Si buscas una silla para estar tumbado como en un sofá, esta no es tu silla. Pero si buscas algo a un buen precio para trabajar con una buena ergonomia sin pijadas, esta HJH es muy buena opción.
 
-2 - [SIHOO](https://amzn.to/2Qh7os4)
+## 2 - [SIHOO](https://amzn.to/2Qh7os4)
 
 En cualquier trabajo, la productividad está directamente relacionada con sentirse cómodo, y en trabajos de oficina, es fundamental que la silla sea cómoda, si además es bonita y tiene múltiples funciones de ajuste, mejor todavia, y ese es el caso de esta silla.
 
@@ -97,7 +97,7 @@ La calidad de los materiales son de calidad, y lo mejor para nuestro gusto es qu
 
 No hace nada de ruido, las ruedas también y el pistón para subir y bajar va muy fino.
 
-1 - [SONGMICS Racing](https://amzn.to/37svupF)
+## 1 - [SONGMICS Racing](https://amzn.to/37svupF)
 
 La silla es sobresaliente por su relación calidad precio. Su montaje es fácil si sigues las instrucciones y no tardas más de 10 minutos, trae sus llaves allen y algún repuesto (ruedas y tornillos) lo que se agradece.
 
