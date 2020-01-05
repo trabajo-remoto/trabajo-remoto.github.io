@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `trabajo-remoto.com`,
+    siteUrl: `https://trabajo-remoto.com`,
     menuLinks: [
       {
         name:'Set Básico',
