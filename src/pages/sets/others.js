@@ -1,4 +1,4 @@
-oimport React from "react"
+import React from "react"
 
 import ProductList from "../../containers/product-list"
 
